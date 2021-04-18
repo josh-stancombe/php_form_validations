@@ -1,2 +1,2 @@
 # php_form_validations
-PHP - HTML from validation examples
+PHP - HTML from validation and sanitization examples
